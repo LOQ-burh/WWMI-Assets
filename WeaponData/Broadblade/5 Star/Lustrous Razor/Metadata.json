@@ -1,0 +1,26 @@
+{
+    "vb0_hash": "6c13129e",
+    "cb4_hash": "f02baf77",
+    "vertex_count": 15336,
+    "index_count": 42870,
+    "components": [
+        {
+            "vertex_offset": 0,
+            "vertex_count": 15336,
+            "index_offset": 0,
+            "index_count": 42870,
+            "vg_offset": 0,
+            "vg_count": 1,
+            "vg_map": {
+                "0": 0
+            }
+        }
+    ],
+    "shapekeys": {
+        "offsets_hash": "",
+        "scale_hash": "",
+        "vertex_count": 0,
+        "dispatch_y": 0,
+        "checksum": 0
+    }
+}
